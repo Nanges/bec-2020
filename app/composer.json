@@ -1,0 +1,13 @@
+{
+  "require": {
+    "slim/slim": "^3.0",
+    "league/plates": "3.*",
+    "slim/flash": "^0.4.0"
+  },
+  "autoload": {
+    "classmap": [
+      "./controllers",
+      "./extensions"
+    ]
+  }
+}

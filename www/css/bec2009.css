@@ -1,0 +1,292 @@
+@charset "utf-8";
+/* CSS bec2009 */
+
+#Container {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	background-color: #FFFFFF;
+	position: relative;
+	background-image: url(../images/bg_bloc3.png);
+	background-repeat: repeat-y;
+}
+body {
+	margin: 0px;
+	background-image: url(../images/bg_bec.jpg);
+	background-repeat: repeat-x;
+}
+#bloc1 {
+	height: 75px;
+	width: 200px;
+	position: relative;
+	margin: 0px;
+	float: left;
+	background-image: url(../images/bg_bloc1.png);
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+#Top1 {
+	height: 75px;
+	width: 600px;
+	position: relative;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 200px;
+	background-image: url(../images/bec_logo.png);
+	background-repeat: no-repeat;
+}
+#Container #menu li {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	list-style-type: none;
+	color: #999999;
+	line-height: 30px;
+	list-style-image: url(../images/puce.png);
+}
+#Container #bloc2 p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	text-align: center;
+}
+#content h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #695548;
+	font-size: 24px;
+}
+#content p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+#menu {
+	float: left;
+	height: 250px;
+	width: 200px;
+	position: relative;
+	background-image: url(../images/bg_menu_bec.png);
+}
+#banner {
+	height: 250px;
+	width: 600px;
+	position: relative;
+	margin-left: 200px;
+}
+#ssMenu {
+	float: left;
+	width: 200px;
+	position: relative;
+}
+#content {
+	width: 560px;
+	position: relative;
+	margin-left: 220px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+#bloc1b p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#bloc2 {
+	float: left;
+	height: 75px;
+	width: 200px;
+	position: relative;
+	background-image: url(../images/bg_bloc1.png);
+}
+#Container #bloc1 a {
+	background-color: #87C7E1;
+	color: #695548;
+	text-decoration: none;
+}
+#Container #bloc1 strong {
+	color: #87C7E1;
+	background-color: #695548;
+}
+
+#links {
+	height: 75px;
+	width: 600px;
+	position: relative;
+	margin-left: 200px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+.gws {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.gws a {
+	color: #cc0000;
+}
+
+#bottom {
+	text-align: center;
+	width: 800px;
+	position: relative;
+	background-color: #FFFFFF;
+}
+#Container #bottom a {
+}
+
+#bloc1b {
+	height: 75px;
+	width: 200px;
+	position: relative;
+	margin: 0px;
+	float: left;
+	background-image: url(../images/bg_bloc2.png);
+}
+#Container #menu a {
+	color: #999966;
+	text-decoration: none;
+}
+
+#Container #menu a:hover{
+	color: #CCCC00;
+	text-decoration: none;
+}
+
+#Top1b {
+	height: 75px;
+	width: 600px;
+	position: relative;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 200px;
+	background-color: #e4f1f8;
+}
+#Container #links li {
+	display: inline;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #000000;
+	padding-right: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #996666;
+}
+#Container #links a {
+	color: #996666;
+	text-decoration: none;
+}
+#Container #bottom p {
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+}
+#Container #bottom a {
+	color: #0099FF;
+}
+
+
+#Container #links a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+#Container #content a {
+	color: #993300;
+	text-decoration: none;
+}
+
+#Container #content a:hover {
+	color: #996666;
+	text-decoration: none;
+}
+
+#Container #content table td {
+	border-left-width: thin;
+	border-left-style: dotted;
+	border-left-color: #666600;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+#bloc3 {
+	width: 200px;
+	position: relative;
+	margin: 0px;
+	float: left;
+	vertical-align: top;
+}
+#Container #Top3 {
+	margin-left: 200px;
+	width: 580px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	position: relative;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	padding-left: 20px;
+	height: 160px;
+}
+#Container #ssMenu li {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	list-style-type: circle;
+	line-height: 20px;
+}
+#Container #ssMenu a {
+	text-decoration: none;
+	color: #666600;
+}
+
+#Container #ssMenu a:hover {
+	text-decoration: none;
+	color: #CCCCCC;
+}
+
+#Container #Top3 h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #108FC3;
+}
+#Container #content ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+#Container #content ul li, #Container #content ol li{
+	margin-bottom:10px;
+}
+#Container #Top3 a {
+	color: #993300;
+	text-decoration: underline;
+}
+#Container #content ol {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+#Container #content h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #695548;
+}
+a {
+	color: #993300;
+}

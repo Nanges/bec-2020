@@ -1,0 +1,17 @@
+a.lien
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style: normal;
+line-height: normal;
+text-decoration:none;
+color:#003366;}
+
+a.lien:hover
+{
+font-family: Verdana, Arial, Helvetica, courier;
+font-size: 10px;
+font-style: normal;
+line-height: normal;
+text-decoration:none;
+color:#FFFFFF;}.lienmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #003366}
