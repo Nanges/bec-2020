@@ -37,8 +37,13 @@
       <li>Hypertonie oculaire contrôlable par       les collyres, ou par traitement par voie orale</li>
       <li>Risques infectieux : 1/6000</li>
       <li>Œdème maculaire contrôlable par un       traitement local.</li>
-      <li>Risque de décollement de rétine rare,       essentiellement chez les forts myopes, ou       les patients présentant des lésions dégénératives rétiniennes, qu'il       faudra contrôler et traiter avant l'intervention.</li>
-      <li>Risque de <a href="cataracte_secondaire.html">cataracte secondaire</a>.</li>
+      <li>Risque de décollement de rétine rare, essentiellement chez les forts myopes, ou les patients présentant des lésions dégénératives rétiniennes. Les signes d’appels d’une déchirure rétinienne à
+l’origine d’un décollement de rétine sont les éclairs et flashs lumineux, impression de voir
+des corps étrangers sous forme de suie dans le champs de vision, et une amputation
+d’une partie du champs de vision. Ces signes doivent inciter à une consultation en
+urgence.</li>
+	  <li>Risque de <a href="cataracte_secondaire.html">cataracte secondaire</a> ou <abbr title="Opacification de la Capsule Postérieure">PCO</abbr>, traitable par capsulotomie au laser YAG en quelques minutes en ambulatoire en
+consultation.</li>
     </ul>
     <p>&nbsp;</p>
   <p>Implants Multifocaux  et pseudo-accommodatifs :   </p>

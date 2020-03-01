@@ -18,7 +18,7 @@ prédictibles et entrainent de très bons résultats réfractifs.</p>
 
 <h4 class='fs-12'>AVANTAGES<!-- de la technique SMILE par rapport au Lasik et autres techniques--></h4>
 <ul>
-	<li>Absence de réalisation d’un capot fragile en cas de frottemens et de traumatisme.</li>
+	<li>Absence de réalisation d’un capot fragile en cas de frottements et de traumatisme.</li>
 	<li>Moindre sécheresse</li>
 </ul>
 

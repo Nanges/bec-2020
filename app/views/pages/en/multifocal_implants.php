@@ -35,8 +35,11 @@
       <li>High intra-ocular pressure treatable by local eye drops or oral medications</li>
       <li>Risk of infection: 1/6000</li>
       <li>Macular oedema controlled by local treatment</li>
-      <li>Low risk of retinal detachment, mainly in high myopia or patients with degenerative lesions that can be checked and treated before surgery</li>
-      <li>Risk of secondary cataract</li>
+      <li>Low risk of retinal detachment, mainly in high myopia or patients with degenerative lesions that can be checked and treated before surgery.</li>
+	  <!--<li>Risk of retinal detachment, exceptional and occuring especially in high myopia or in patients with retinal tears or breaks.</li>-->
+	 <li>Retinal tears are sometimes accompanied by lightening, dark floatters, or visual
+field amputation. These clinical signs should be condered as an emergency: <abbr title="Posterior Capsular Opacification">PCO</abbr> treatable by laser YAG capsulotomy in a few minutes.</li> 
+	  <li>Risk of secondary cataract</li>
     </ul>
     <p>Link&nbsp;: <a href="http://www.meditec.zeiss.com/lisa" target="_blank">www.meditec.zeiss.com</a></p>
     <p>&nbsp;</p>
