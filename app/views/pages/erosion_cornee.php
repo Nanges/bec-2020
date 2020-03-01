@@ -16,7 +16,11 @@
     <ul type="disc">
       <li>Il s'agit du même Laser Excimer utilisé dans la         chirurgie réfractive. La chirurgie est réalisée en ambulatoire, sous anesthésie locale par gouttes&nbsp;:</li>
       <li>Régularisation de la surface cornéenne, grâce au Laser Excimer,         par la technique de kératectomie photo-thérapeutique, afin         d'améliorer la qualité visuelle et d'entraîner une meilleure         cicatrisation et une adhérence définitive de l'épithélium.</li>
-    </ul>
+		<li>En cas d&#39;opacification superficielle de la cornée, le Laser Excimer thérapeutique( identique à
+celui de la chirurgie réfractive) est utilisé afin d&#39;abraser la surface opaque et de récupérer
+une meilleure transparence cornéenne compatible avec une bonne vision.</li>
+		<li>Les complications du laser Excimer Thérapeutique sont identiques à celles du laser PRK ou TRANS-PRK.</li>
+	</ul>
     <p>&nbsp;</p>
     <h2 align="center"><a name="dystrophie" id="dystrophie"></a></h2>
     <h2 align="center">DYSTROPHIES DE LA CORNEE</h2>

@@ -16,7 +16,11 @@ Recurrent erosions are frequent symptoms of Cogan dystrophy (Map-dot  fingerprin
     <ul type="disc">
       <li>PTK is performed       with the Excimer Laser under local anaesthesia by eye drops. It is the       same laser used in refractive surgery. PTK is performed with topical       anaesthesia ambulatory surgery. </li>
       <li>Smoothing  of corneal surface is performed by Excimer Laser to obtain better adhesion of  the epithelium to the cornea with definitive healing of corneal erosions.  Quality of vision is then improved. </li>
-    </ul>
+		<li>Superficial corneal opacification can be treated by LASER Excimer (used also in refractive
+surgery) For abrasion of the superficial opacity in order to achieve a better corneal
+transparency and a better quality of vision.</li>
+		<li>The complications of this technic are similar to PRK, TRANS-PRK</li>
+	</ul>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <h2 align="center"><a name="dystrophy" id="dystrophy"></a></h2>
