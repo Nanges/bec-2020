@@ -20,6 +20,7 @@
     </ul>
     <p><strong>Traitement</strong> :</p>
     <ul type="disc">
+		<li>Capsulotomie</li>
       <li>Laser Yag, en ambulatoire, sous       anesthésie locale par gouttes</li>
       <li>Grâce au Laser Yag, le chirurgien       réalise une ouverture de la capsule postérieure opacifiée, afin de dégager       l'axe visuel</li>
     </ul>

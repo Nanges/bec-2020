@@ -84,7 +84,7 @@
       </tr>
       <tr>
         <td width="245" valign="top"><p><a href="secondary_cataract.html"><strong>Secondary cataract</strong></a> </p></td>
-        <td width="503" valign="top"><p>Laser Yag Capsulotomy </p></td>
+        <td width="503" valign="top"><p><a href="capsulotomy.html">Laser Yag Capsulotomy</a> </p></td>
       </tr>
       <tr>
         <td width="245" valign="top"><p><a href="glaucoma.html"><strong>Glaucoma</strong></a> </p></td>
