@@ -20,12 +20,33 @@
     <p>      Le Corneal Cross-Linking nécessite l’application de la riboflavine et de  l’ultraviolet pendant quelques minutes après une désépithélialisation mécanique  ou par laser Excimer de la cornée.&nbsp; Cette  intervention est réalisable sous anesthésie topique par gouttes.&nbsp; </p>
     <p>      Une gêne ou douleur postopératoire est  présente pendant 24 à 48 heures.<br>
       Dans certains cas, le Corneal Cross-Linking est associé à un traitement de  surface par <a href="chirurgie_refractive_laser-Excimer.html">Laser Excimer</a> guidé par topographie cornéenne (<a href="chirurgie_refractive_PRK.html">PRK</a> ou PTK)&nbsp;:  TOPOGuided treatment.</p>
-    <p align="center"><img src="images/cornealcrosslinking.jpg" alt="corneal cross linking" width="297" height="239"></p>
+	<p><strong>LES ANNEAUX INTRACORNEENS</strong></p>
+	<ul>
+		<li>Retard de cicatrisation pouvant entrainer une vision trouble nécessitant un traitement anti
+inflammatoire avec résorption du trouble cornéen plusieurs semaines après.</li>
+		<li>Risque infectieux rare (1/4000) nécessitant un traitement par antibiothérapie local.</li>
+		<li>Douleurs post-opératoires de 48H réduites par des anti douleurs et une lentille pansement.</li>
+	</ul>
+	<p align="center"><img src="images/cornealcrosslinking.jpg" alt="corneal cross linking" width="297" height="239"></p>
     <p>&nbsp;</p>
     <p><strong>LES ANNEAUX INTRACORNEENS</strong><br>
     Les anneaux intracornéens sont des anneaux en PMMA introduites dans le tiers postérieur de la cornée pour aplatir la partie la plus cambrée de la cornée souffrant de kératocône avec un astigmatisme irrégulier.&nbsp; </p>
     <p>Cette intervention  chirurgicale se réalise en ambulatoire sous anesthésie topique par gouttes et  elle peut être combinée avec le Corneal Cross-Linking.&nbsp; Elle peut réduire l’astigmatisme et permettre  une meilleure fonction visuelle avec lunettes ou lentilles de contact.</p>
-    <p>&nbsp;</p>
+	<p><strong>LES COMPLICATIONS DES ANNEAUX INTRA-CORNEENS</strong></p>
+	<ul>
+		<li>Douleur postopératoire modérée de 24 H</li>
+		<li>Halos et éblouissements par la lumière dus aux anneaux. Il s’agit d’une complication rare
+	nécessitant alors le retrait de l’anneau intracornéen si ces phénomènes visuels sont très
+	dérangeants.</li>
+		<li>Déplacement de l’anneau avec parfois lésion cornéenne. Cette complication est dû
+	essentiellement aux frottements dont il faut s’abstenir après la chirurgie.</li>
+	</ul>
+	
+	
+	
+	
+	
+	<p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><a name="keraring" id="keraring"></a></p>
     <p><strong>LES ANNEAUX INTRACORNEENS (KERARING)</strong><br>

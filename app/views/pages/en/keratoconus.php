@@ -19,13 +19,28 @@
     <p>Treatment begins by mechanical desepithelialisation or by laser Excimer. Riboflavin is instilled during 15 to 30 minutes. Then, ultra-violets are applied during 30 minutes. <br>
     Corneal cross-linking is performed under topical anaesthesia by drops. Pain can occur during the first 24 to 48 hours.</p>
     <p>      In some cases, Corneal Cross-Linking is combined with <a href="refractive_surgery_PRK.html">PRK</a> or <a href="recurrent_corneal_erosions.html#ptk">PTK</a> by <a href="refractive_surgery_laser-Excimer.html">laser Excimer</a> at the end of surgery.</p>
-    <p align="center"><img src="../images/cornealcrosslinking.jpg" alt="corneal cross linking" width="297" height="239"></p>
+	<p><strong>CORNEAL CROSSLINKING COMPLICATIONS</strong></p>
+	<ul>
+		<li>Late epithélial corneal healing inducing blurred vision.
+An anti inflammatory topical treatent is then required, sometimes for few weeks, to achieve
+a clear vision.</li>
+		<li>Infection (rare : 1/4000) requiring topical antibiotic treatment.</li>
+		<li>Post operative pain (48h) is reduced by pain killer and bandage contact lens.</li>
+	</ul>
+	<p align="center"><img src="../images/cornealcrosslinking.jpg" alt="corneal cross linking" width="297" height="239"></p>
     <p>&nbsp;</p>
     <p><strong>INTRA-OCULAR RINGS :</strong><br>
     It’s a technique used to freeze the cornea suffering from keratoconus. The principle is applying ultra-violets rays with riboflavin, to induce photo polymerisation of collagen. Treatment begins by mechanical desepithelialisation or by laser Excimer. Riboflavin is instilled during 15 to 30 minutes. Then, ultra-violets are applied during 30 minutes.</p>
-    <p><br>
-      Corneal cross-linking is performed under topical anaesthesia by drops. Pain can occur during the first 24 to 48 hours.<br>
-      In some cases, Corneal Cross-Linking is combined with PRK or PTK by laser Excimer at the end of surgery.</p>
+    <p>Corneal cross-linking is performed under topical anaesthesia by drops. Pain can occur during the first 24 to 48 hours.<br>
+	  In some cases, Corneal Cross-Linking is combined with PRK or PTK by laser Excimer at the end of surgery.</p>
+	<p><strong>INTRA CORNEAL COMPLICATIONS</strong></p>
+	<ul>
+		<li>Moderate post operative pain 24H</li>
+		<li>Halos and glare induced by the rings. This rare complication requires rings explantation if
+	those visual signs are very disturbing.</li>
+		<li>Ring’s dislocation with corneal injury due especially to eye rubbings that should be strictly
+	avoided.</li>
+	</ul>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><a name="phakic" id="phakic"></a></p>
