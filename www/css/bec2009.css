@@ -42,10 +42,10 @@ body {
 }
 #Container #menu li {
   font-family: Geneva, Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   list-style-type: none;
   color: #999999;
-  line-height: 30px;
+  line-height: 26px;
   list-style-image: url(../images/puce.png);
 }
 #Container #bloc2 p {
@@ -302,4 +302,30 @@ a {
 
 .text-center {
   text-align: center !important;
+}
+
+/*Gallery*/
+.gallery{
+  position:relative;
+  top: -140px;
+}
+
+.gallery::after{
+  content: " ";
+  clear:both;
+  display:block;
+}
+
+.gallery-image{
+  float: left;
+  padding:8px;
+}
+
+.gallery-image a{
+  border: 4px solid #d6d1ce;
+  display:block;
+}
+
+.gallery-image a:hover{
+  border-color: #87C7E1;
 }

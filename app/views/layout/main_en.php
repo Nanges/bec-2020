@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title><?= $tab_title ?></title>
 <link href="/css/bec2009.css" rel="stylesheet" type="text/css" />
+<?= $this->section('styles') ?>
 </head>
 
 <body>
@@ -20,6 +21,7 @@
       <li><a href="/en/eye_diseases.html">Diseases and treatments</a></li>
       <li><a href="/en/eye_surgery_technology.html">High Tech instruments</a></li>
       <li><a href="/en/eye_center.html">Localisation</a></li>
+      <li><a href="/en/gallery.html">Gallery</a></li>
       <li><a href="/en/ophthalmologist_brussels.html">Contact</a></li>
     </ul>
   </div>
@@ -67,5 +69,6 @@
     CM dESIGN <a href="http://www.cmdesign2.be" target="_blank">Web site design</a></div>
   </div>
 </div>
+<?= $this->js()->render() ?>
 </body>
 </html>

@@ -4,6 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?= $tab_title ?></title>
     <link href="/css/bec2009.css" rel="stylesheet" type="text/css" />
+    <?= $this->section('styles') ?>
   </head>
   <body>
     <script
@@ -26,6 +27,7 @@
           <li><a href="/maladies_oculaires.html">Maladies et soins</a></li>
           <li><a href="/technologies.html">Matériel et technologies</a></li>
           <li><a href="/centre_ophtalmologique.html">Localisation</a></li>
+          <li><a href="/gallery.html">Galerie</a></li>
           <li><a href="/ophtalmologue_bruxelles.html">Contact</a></li>
         </ul>
       </div>
@@ -124,5 +126,6 @@
         </div>
       </div>
     </div>
+    <?= $this->js()->render() ?>
   </body>
 </html>

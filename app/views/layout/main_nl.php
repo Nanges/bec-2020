@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title><?= $tab_title ?></title>
 <link href="/css/bec2009.css" rel="stylesheet" type="text/css" />
+<?= $this->section('styles') ?>
 </head>
 <body>
 <script
@@ -23,6 +24,7 @@
       <li><a href="/nl/oogziekten.html">Ziekten en behandeling</a></li>
       <li><a href="/nl/technologieen.html">Materiaal en technologieën</a></li>
       <li><a href="/nl/ligging.html">Ligging</a></li>
+      <li><a href="/nl/gallery.html">Galerij</a></li>
       <li><a href="/nl/oogheelkunde_brussel.html">Contactpunten</a></li>
     </ul>
   </div>
@@ -71,5 +73,6 @@
       CM dESIGN <a href="http://www.cmdesign2.be" target="_blank">webDesign</a></div>
   </div>
 </div>
+<?= $this->js()->render() ?>
 </body>
 </html>
