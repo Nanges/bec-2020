@@ -1,3 +1,4 @@
 app/vendor
 tasks/node_modules
 tasks/backup/
+*.zip
