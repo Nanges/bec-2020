@@ -42,12 +42,8 @@
   <div id="ssMenu">
     <ul>
       <li><a href="/nl/oftalmologen_brussel/dokter_jean_assaf.html"><strong>Dr Jean Assaf</strong></a></li>
-      <!-- <li><a href="/nl/oftalmologen_brussel/dokter_altawab.html">Dr B. Altawab</a></li>
-      <li><a href="/nl/oftalmologen_brussel/dokter_benchekroun.html"> Dr S. Benchekroun</a></li> -->
       <li><a href="/nl/oftalmologen_brussel/dokter_dixsaut.html">Dr F. Dixsaut</a></li>
-	  <li><a href="/nl/oftalmologen_brussel/dokter_elouardighi.html">Dr H. El Ouardighi</a></li>
       <li><a href="/nl/oftalmologen_brussel/dokter_frankental.html"> Dr D. Frankental</a></li>
-	  <li><a href="/nl/oftalmologen_brussel/dokter_kazemi.html">Dr G. Kazemi</a></li>
       <li><a href="/nl/oftalmologen_brussel/dokter_kolyvras.html">Dr N. Kolyvras</a></li>
       <li><a href="/nl/oftalmologen_brussel/dokter_vilain.html">Dr S. Vilain</a></li>
     </ul>

@@ -54,35 +54,15 @@
               ><strong>Dr Jean Assaf</strong></a
             >
           </li>
-          <!-- <li>
-            <a href="/ophtalmologues_bruxelles/docteur_altawab.html"
-              >Dr B. Altawab</a
-            >
-          </li>
-          <li>
-            <a href="/ophtalmologues_bruxelles/docteur_benchekroun.html"
-              >Dr S. Benchekroun</a
-            >
-          </li> -->
           <li>
             <a href="/ophtalmologues_bruxelles/docteur_dixsaut.html"
               >Dr F. Dixsaut</a
-            >
-          </li>
-		  <li>
-            <a href="/ophtalmologues_bruxelles/docteur_elouardighi.html"
-              >Dr H. El Ouardighi</a
             >
           </li>
           <li>
             <a href="/ophtalmologues_bruxelles/docteur_frankental.html"
               >Dr D. Frankental
             </a>
-          </li>
-		  <li>
-            <a href="/ophtalmologues_bruxelles/docteur_kazemi.html"
-              >Dr G. Kazemi</a
-            >
           </li>
           <li>
             <a href="/ophtalmologues_bruxelles/docteur_kolyvras.html"

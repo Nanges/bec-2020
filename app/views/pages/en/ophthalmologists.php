@@ -23,17 +23,6 @@
           </li>
         </ul>
       </li>
-      <!-- <li><strong><a href="ophtalmologists_brussels/doctor_altawab.html">Bassel ALTAWAB MD</a></strong>
-        <ul>
-          <li>General ophthalmology</li>
-          <li> Medical Retina</li>
-        </ul>
-      </li>
-      <li><strong><a href="ophtalmologists_brussels/doctor_benchekroun.html">Saad BENCHEKROUN MD</a></strong></li>
-      <ul>
-        <li> General ophthalmology</li>
-        <li>Neuro-ophthalmology diseases</li>
-      </ul> -->
       <li><a href="ophtalmologists_brussels/doctor_dixsaut.html"><strong>Fabrice DIXSAUT MD</strong></a>
         <ul>
           <li>General ophthalmology</li>
@@ -41,21 +30,10 @@
           <li>Eyelid surgery</li>
         </ul>
       </li>
-	  <li><a href="ophtalmologists_brussels/doctor_elouardighi.html"><strong>Dr Hind EL OUARDIGHI</strong></a>
-        <ul>
-			<li>General ophthalmology</li>
-          	<li>Medical Retina</li>
-        </ul>
-      </li>
       <li><a href="ophtalmologists_brussels/doctor_frankental.html"><strong>Dita FRANKENTAL MD</strong></a>
         <ul>
           <li>General ophthalmology</li>
           <li>Contact lenses</li>
-        </ul>
-      </li>
-	  <li><a href="ophtalmologists_brussels/doctor_kazemi.html"><strong>Dr Ghassem KAZEMI</strong></a>
-        <ul>
-          <li>General ophthalmology</li>
         </ul>
       </li>
       <li><strong><a href="ophtalmologists_brussels/doctor_kolyvras.html">Nicolas KOLYVRAS MD</a></strong>
@@ -73,60 +51,57 @@
     </ul>
     <p>&nbsp;</p>
     <h2>STAFF</h2>
-    <table>
-        <!--
-    	<tr>
-        	<td><img src="../images/patricia_BEC.jpg" width="175" height="175" /></td>
-            <td><p><strong>Patricia</strong><br />
-      Technical Assistant<br />
-      Surgery assistant<br />
-      Surgical schedule</p></td>
+    <table class="table-data">
+      <tbody>
+			  <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/personnel-julie.jpg)"></span>
+          </td>
+          <td>
+            <strong>Julie</strong><br/>
+            Medical secretary<br>
+            Planning</p>
+          </td>
         </tr>
-        -->
-        <tbody>
-			<tr>
-				<td>
-					<p><strong>Julie</strong><br>
-					Medical secretary<br>
-					Planning</p>
-				</td>
-        	</tr>
-			<tr>
-				<td><p><strong>Patricia</strong><br/>
-					Surgery assistant<br/>
-					Staff management
-					</p>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<p><strong>Hafsa</strong><br/>
-					Optometrist<br/>
-					Technical assistant
-				</p>
-				</td>
-				
-			</tr>
-			<tr>
-				<td><p><strong>Marie</strong><br/>
-					Secretariat
-					</p>
-				</td>
-				
-			</tr>
-			<tr>
-				<td>
-					<p><strong>André</strong><br/>
-						Secretariat<br/>
-						Reception
-					</p>
-				</td>
-			</tr>
-    </tbody></table>
-
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-  
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/personnel-patricia.jpg)"></span>
+          </td>
+          <td><strong>Patricia</strong><br/>
+            Surgery assistant<br/>
+            Staff management
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/personnel-hafsa.jpg)"></span>
+          </td>
+          <td>
+            <strong>Hafsa</strong><br/>
+            Optometrist<br/>
+            Technical assistant
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/personnel-marie.jpg)"></span>
+          </td>
+          <td><strong>Marie</strong><br/>
+            Secretariat
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/personnel-andre.jpg)"></span>
+          </td>
+          <td>
+            <strong>André</strong><br/>
+            Secretariat<br/>
+            Reception
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
 	<?php $this->start("banner") ?>
 	<img src="../images/top_maladies.jpg" alt="Brussels Eye Center, Eye Center specialized in medical and surgical treatment of the eyes" width="600" height="250">

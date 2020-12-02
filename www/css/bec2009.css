@@ -59,6 +59,8 @@ body {
   color: #695548;
   font-size: 24px;
 }
+
+.table-data,
 #content p {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 12px;
@@ -328,4 +330,14 @@ a {
 
 .gallery-image a:hover{
   border-color: #87C7E1;
+}
+
+/*employee*/
+.employee-image{
+  background-size: cover;
+  background-position: center center;
+  display:inline-block;
+  width:150px;
+  height:150px;
+  border-radius: 100%;
 }

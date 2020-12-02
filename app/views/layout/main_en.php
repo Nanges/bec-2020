@@ -39,12 +39,8 @@
   <div id="ssMenu">    
     <ul>
       <li><a href="/en/ophtalmologists_brussels/doctor_jean_assaf.html"><strong>Jean Assaf MD</strong></a></li>
-      <!-- <li><a href="/en/ophtalmologists_brussels/doctor_altawab.html">B. Altawab MD</a></li>
-      <li><a href="/en/ophtalmologists_brussels/doctor_benchekroun.html">S. Benchekroun MD</a></li>       -->
       <li><a href="/en/ophtalmologists_brussels/doctor_dixsaut.html">F. Dixsaut MD</a></li>
-	  <li><a href="/en/ophtalmologists_brussels/doctor_elouardighi.html">Dr H. El Ouardighi</a></li>
       <li><a href="/en/ophtalmologists_brussels/doctor_frankental.html">D. Frankental MD</a></li>
-	  <li><a href="/en/ophtalmologists_brussels/doctor_kazemi.html">Dr G. Kazemi</a></li>
       <li><a href="/en/ophtalmologists_brussels/doctor_kolyvras.html">N. Kolyvras MD</a></li>
 		<li><a href="/en/ophtalmologists_brussels/doctor_vilain.html">S. Vilain MD</a></li>
     </ul>
