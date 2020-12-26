@@ -74,6 +74,9 @@
               <li>PresbyMax</li>
               <li><a href="presbytie.html">Prelex</a> (presbyopic lense exchange)</li>
               <li><a href="implants_multifocaux.html">Implants multifocaux</a></li>
+                <li>
+                    <a href="edof.html">Implant intracoculaire (IOL) avec profondeur de champ (EDOF)</a>
+                </li>
         </ul></td>
       </tr>
       <tr>
