@@ -89,6 +89,6 @@
 	<?php $this->start("top3") ?>
 	
     <h2>Les docteurs du Brussels Eye Center</h2>
-    <p>Notre centre regroupe 7 occulistes expérimentés dans les maladies et la chirurgie des yeux.</p>
+    <p>Notre centre regroupe 6 occulistes expérimentés dans les maladies et la chirurgie des yeux.</p>
   
 	<?php $this->stop() ?>

@@ -1,7 +1,7 @@
 
 	<?php 
 		$this->layout("/layout/main_fr", [
-			"tab_title" => "Brussels Eye Center - 7 ophtalmologues expérimentés dans les maladies et la chirurgie oculaire à Bruxelles Belgique",
+			"tab_title" => "Brussels Eye Center - 6 ophtalmologues expérimentés dans les maladies et la chirurgie oculaire à Bruxelles Belgique",
 			"title" => "
     Nous contacter
   "

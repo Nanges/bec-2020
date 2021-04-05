@@ -50,7 +50,7 @@
         </p>
         <p>
           Notre centre regroupe
-          <a href="ophtalmologues.html">7 ophtalmologues</a> expérimentés dans
+          <a href="ophtalmologues.html">6 ophtalmologues</a> expérimentés dans
           les maladies et la chirurgie des yeux.
         </p>
       

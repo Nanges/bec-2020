@@ -37,6 +37,6 @@
 	
     <h2>Brussels Eye Center</h2>
     <p>En plein cœur de Bruxelles, dans le quartier des Communautés Européennes, le Centre d’Ophtalmologie spécialisé dans la prévention, le traitement médical et chirurgical des yeux.</p>
-    <p>Notre centre regroupe 7 ophtalmologues expérimentés dans les maladies et la chirurgie des yeux.</p>
+    <p>Notre centre regroupe 6 ophtalmologues expérimentés dans les maladies et la chirurgie des yeux.</p>
   
 	<?php $this->stop() ?>

@@ -109,6 +109,6 @@
 	<?php $this->start("top3") ?>
 	
     <h2><strong>De artsen van het Brussels Eye Center</strong></h2>
-    <p>Ons centrum groepeert 7 ophtalmologen gespecialiseerd in <strong>oogziekten</strong> en  oogchirurgie.</p>
+    <p>Ons centrum groepeert 6 ophtalmologen gespecialiseerd in <strong>oogziekten</strong> en  oogchirurgie.</p>
   
 	<?php $this->stop() ?>

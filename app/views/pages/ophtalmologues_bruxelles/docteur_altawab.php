@@ -1,7 +1,7 @@
 
 	<?php 
 		$this->layout("/layout/main_fr", [
-			"tab_title" => "Brussels Eye Center - 7 ophtalmologues expérimentés dans les maladies et la chirurgie des yeux",
+			"tab_title" => "Brussels Eye Center - 6 ophtalmologues expérimentés dans les maladies et la chirurgie des yeux",
 			"title" => "
     Ophtalmologue
   "

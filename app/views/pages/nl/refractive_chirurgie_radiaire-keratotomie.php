@@ -162,6 +162,6 @@
 	
     <h2>Brussels Eye Center</h2>
     <p>    In hartje Brussel, in de wijk van de Europese Commissie,  ligt het <strong>ophtalmologisch centrum gespecialiseerd</strong> in de preventie en de medische  en chirurgische behandeling van de ogen.</p>
-    <p>Ons centrum groepeert <a href="oftalmologen.html">7 ophtalmologen</a> gespecialiseerd in <strong>oogziekten</strong> en  oogchirurgie.</p>
+    <p>Ons centrum groepeert <a href="oftalmologen.html">6 ophtalmologen</a> gespecialiseerd in <strong>oogziekten</strong> en  oogchirurgie.</p>
   
 	<?php $this->stop() ?>
