@@ -46,6 +46,7 @@
       <li><a href="/nl/oftalmologen_brussel/dokter_frankental.html"> Dr D. Frankental</a></li>
       <li><a href="/nl/oftalmologen_brussel/dokter_kolyvras.html">Dr N. Kolyvras</a></li>
       <li><a href="/nl/oftalmologen_brussel/dokter_vilain.html">Dr S. Vilain</a></li>
+      <li>Dr Z. Aouchar</li>
     </ul>
   </div>
   <div id="content">

@@ -42,7 +42,8 @@
       <li><a href="/en/ophtalmologists_brussels/doctor_dixsaut.html">F. Dixsaut MD</a></li>
       <li><a href="/en/ophtalmologists_brussels/doctor_frankental.html">D. Frankental MD</a></li>
       <li><a href="/en/ophtalmologists_brussels/doctor_kolyvras.html">N. Kolyvras MD</a></li>
-		<li><a href="/en/ophtalmologists_brussels/doctor_vilain.html">S. Vilain MD</a></li>
+		  <li><a href="/en/ophtalmologists_brussels/doctor_vilain.html">S. Vilain MD</a></li>
+      <li>Dr Z. Aouchar</li>
     </ul>
   </div>
   <div id="content">
