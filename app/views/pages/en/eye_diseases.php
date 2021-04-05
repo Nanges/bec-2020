@@ -65,9 +65,12 @@
         <td width="503" valign="top"><p>Non-surgical treatment:<br>
             multifocal contact lenses <br>
             <a href="presbyopia.html">Presbyopia surgery</a> :</p>
-          <ul type="disc">
-            <li>Prelex (presbyopic lense exchange) </li>
-            <li><a href="multifocal_implants.html">multifocal intra-ocular lenses </a> </li>
+            <ul type="disc">
+                <li>Prelex (presbyopic lense exchange) </li>
+                <li><a href="multifocal_implants.html">multifocal intra-ocular lenses </a> </li>
+                <li><a href="edof.html">
+                    extended depth of focus IOL (EDOF)
+                </a></li>
           </ul></td>
       </tr>
       <tr>
