@@ -186,7 +186,7 @@
 	<div class="popup">
       <div class="cnt223">
         <p align="right"><a href="" class="close">X</a></p>
-        <h1>Bienvenue sur le site du Brussels Eye Center</h1>
+        <h2>Bienvenue sur le site du Brussels Eye Center</h2>
         <p>
           <em
             >centre d’ophtalmologie spécialisé dans la prévention, le traitement
@@ -203,9 +203,7 @@
           La prise de rendez-vous en ligne est disponible via
           <a
             href="https://fr.doctena.be/cabinet/Brussels_Eye_Center-362260"
-            target="_blank"
-            >Doctena (Cabinet)</a
-		  >
+            target="_blank">Doctena (Cabinet)</a>
 		</p>
         <p>
           <strong

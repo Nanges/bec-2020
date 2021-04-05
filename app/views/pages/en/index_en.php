@@ -197,14 +197,16 @@ return false;
 
     <p align="right"><a href="" class="close">X</a></p>
 
-    <h1>Our ophthalmic center is moving!</h1>
-	<p>We will welcome you to larger premises in <strong>Saint Hubert street 49 - 1150 Woluwe Saint Pierre</strong><br>
-	<strong>From Monday the 19th of November 2018</strong></p>
-	<p>Our telephone office will be unavailable Monday the 12th to Friday the 16th of November.<br>
-	For any emergency, please send us an email at <a href="mailto:info@brusselseyecenter.be" target="new">info@brusselseyecenter.be</a></p>
-	<p>The telephone team will be available again on Monday, November 19, 2018 from 8:30 am, at 02 735 43 55</p>
-    	<p>Phone  : 02 / 735.43.55 (Monday  to Friday<strong> </strong>8 h 30 - 12 h 30)<br>
-      Fax : 02 / 735.43.54</p>
+    <h2>Welcome to the website of the Brussels Eye Center</h2>
+	  <p>The Brussels Eye Center is an ophthalmology centre specialising in the prevention, medical and surgical treatment of eye diseases, including surgery for myopia, hyperopia, astigmatism, presbyopia, cataract, cornea and keratoconus. Our centre has several ophthalmologists specialising in surgery, general ophthalmology, medical retina, glaucoma and contact lenses.</p>
+    <h3>New!</h3>
+    <p>Online appointment booking is available via <a href="https://en.doctena.be/practice/Brussels_Eye_Center-362260" target="blank">Doctena</a> (Cabinet)<br/>
+For appointments concerning surgery or for surgical advice, please contact us by phone on 02 735 43 55<br/>
+The telephone secretariat is available from Monday to Friday from 08.30 to 12.30.</p>
+    <h3>Attention!</h3>
+    <p>We have moved in November 2018.<br/>
+Our new offices are located at Rue Saint Hubert, 49 in 1150 Woluwe Saint Pierre.
+    </p>
   </div>
 
 </div>

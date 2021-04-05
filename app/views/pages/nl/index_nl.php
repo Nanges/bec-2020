@@ -196,14 +196,15 @@ return false;
 
     <p align="right"><a href="" class="close">X</a></p>
 
-    <h1>Ons oogheelkundig centrum is in beweging!</h1>
-	<p>Wij verwelkomen u graag in grotere gebouwen in <strong>Saint Hubertstraat 49 – 1150 Woluwe Saint Pierre</strong><br>
-	<strong>Vanaf maandag 19 november 2018</strong></p>
-	<p>Onze telefoonsecretaris is niet beschikbaar vanaf maandag 12 tem vrijdag 16 november.<br>
-	Stuur ons in geval van nood een e-mail op <a href="mailto:info@brusselseyecenter.be" target="new">info@brusselseyecenter.be</a></p>
-	<p>Het telefoonbedrijf is weer bereikbaar vanf maandag 19 november 2018 van 8U30, op 02 735 43 55</p>
-    	<p> Tel. : 02 / 735.43.55 (maandag tot vrijdag 8 u 30 - 12 u 30)<br>
-      Fax : 02 / 735.43.54</p>
+    <h2>Welkom op de website van het Oogcentrum Brussel !</h2>
+    <p>Het Brussels Oogcentrum is een oog centrum dat gespecialiseerd is in de preventie, medische en chirurgische behandeling van oogziekten, met inbegrip van chirurgie voor bijziendheid, verziendheid, astigmatisme, presbyopie, cataract, cornea en keratoconus. Ons centrum beschikt over verschillende oogartsen die gespecialiseerd zijn in chirurgie, algemene oogheelkunde,  retina, glaucoom en contactlenzen.</p>
+    <h3>Nieuw!</h3>
+    <p>Online afspraken maken is mogelijk via <a href="https://nl.doctena.be/praktijk/Brussels_Eye_Center-362260" target="blank">Doctena</a> (Kabinet).<br/>
+    Voor afspraken betreffende chirurgie of voor chirurgisch advies, gelieve ons op te bellen op 02 735 43 55.<br/>
+    Het telefonisch secretariaat is bereikbaar van maandag tot vrijdag van 08H30 tot 12H30.</p>
+    <h3>Attentie!</h3>
+    <p>We zijn verhuisd in november 2018 !<br/>
+    Onze nieuwe kliniek is gelegen op  Rue Saint Hubert, 49 in 1150 Sint-Pieters-Woluwe.</p>
   </div>
 
 </div>
