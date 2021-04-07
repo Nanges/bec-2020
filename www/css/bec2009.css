@@ -341,3 +341,12 @@ a {
   height:150px;
   border-radius: 100%;
 }
+
+.no-employee-image{
+  display:inline-block;
+  width:150px;
+  height:150px;
+  border-radius: 100%;
+  background-color:#ddd;
+}
+

@@ -7,48 +7,79 @@
   "
 		]); 
 	?>
-	
-    <ul>
-      <li><strong><a href="ophtalmologists_brussels/doctor_jean_assaf.html">Jean Assaf MD</a></strong>
-        <ul>
-          <li> Ocular surgery
-            <ul>
-              <li>Multi-focal implants</li>
-            </ul>
-          </li>
-          <li>Refractive surgery
-            <ul>
-              <li>Aberrometry</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li><a href="ophtalmologists_brussels/doctor_dixsaut.html"><strong>Fabrice DIXSAUT MD</strong></a>
-        <ul>
-          <li>General ophthalmology</li>
-          <li>Medical Retina</li>
-          <li>Eyelid surgery</li>
-        </ul>
-      </li>
-      <li><a href="ophtalmologists_brussels/doctor_frankental.html"><strong>Dita FRANKENTAL MD</strong></a>
-        <ul>
-          <li>General ophthalmology</li>
-          <li>Contact lenses</li>
-        </ul>
-      </li>
-      <li><strong><a href="ophtalmologists_brussels/doctor_kolyvras.html">Nicolas KOLYVRAS MD</a></strong>
-        <ul>
-          <li>General ophthalmology</li>
-          <li>Medical Retina</li>
-        </ul>
-      </li>
-	  <li><strong><a href="ophtalmologists_brussels/doctor_vilain.html">Dr. Sophie VILAIN</a></strong>
-        <ul>
-			<li>General ophthalmology</li>
-          	<li>Medical Retina</li>
-        </ul>
-      </li>
-    </ul>
+	<table class="table-data">
+    <tbody>
+      <tr>
+        <td>
+          <span class="employee-image" style="background-image:url(/images/employees/docteur-assaf.jpg)"></span>
+        </td>
+        <td>
+          <p><strong><a href="ophtalmologists_brussels/doctor_jean_assaf.html">Jean Assaf MD</a></strong></p>
+          <ul>
+            <li> Ocular surgery
+              <ul>
+                <li>Multi-focal implants</li>
+              </ul>
+            </li>
+            <li>Refractive surgery
+              <ul>
+                <li>Aberrometry</li>
+              </ul>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="no-employee-image"></span>
+        </td>
+        <td>
+          <p><a href="ophtalmologists_brussels/doctor_dixsaut.html"><strong>Fabrice DIXSAUT MD</strong></a></p>
+          <ul>
+            <li>General ophthalmology</li>
+            <li>Medical Retina</li>
+            <li>Eyelid surgery</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="no-employee-image"></span>
+        </td>
+        <td>
+          <p><a href="ophtalmologists_brussels/doctor_frankental.html"><strong>Dita FRANKENTAL MD</strong></a></p>
+          <ul>
+            <li>General ophthalmology</li>
+            <li>Contact lenses</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="no-employee-image"></span>
+        </td>
+        <td>
+          <p><strong><a href="ophtalmologists_brussels/doctor_kolyvras.html">Nicolas KOLYVRAS MD</a></strong></p>
+          <ul>
+            <li>General ophthalmology</li>
+            <li>Medical Retina</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="employee-image" style="background-image:url(/images/employees/vilain-sophie.jpg)"></span>
+        </td>
+        <td>
+          <p><strong><a href="ophtalmologists_brussels/doctor_vilain.html">Dr. Sophie VILAIN</a></strong></p>
+          <ul>
+            <li>General ophthalmology</li>
+            <li>Medical Retina</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
     <p>&nbsp;</p>
     <h2>STAFF</h2>
     <table class="table-data">

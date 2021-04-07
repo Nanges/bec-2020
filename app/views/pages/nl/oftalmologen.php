@@ -7,48 +7,69 @@
   "
 		]); 
 	?>
-	
-    <ul>
-      <li><a href="oftalmologen_brussel/dokter_jean_assaf.html"><strong>Dr Jean ASSAF</strong></a>
-        <ul>
-          <li>Oogchirurgie
-            <ul>
-              <li>Multifocale implantaten</li>
-            </ul>
-          </li>
-          <li>Refractieve chirurgie
-            <ul>
-              <li>Aberrometrie</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li><a href="oftalmologen_brussel/dokter_dixsaut.html"><strong>Dr Fabrice DIXSAUT</strong></a>
-        <ul>
-          <li>Algemene oogheelkunde</li>
-          <li>Medische retina</li>
-          <li>Ooglidchirurgie</li>
-        </ul>
-      </li>
-      <li><a href="oftalmologen_brussel/dokter_frankental.html"><strong>Dr Dita FRANKENTAL</strong></a>
-        <ul>
-          <li>Algemene oogheelkunde</li>
-          <li>Contactlenzen</li>
-        </ul>
-      </li>
-      <li><a href="oftalmologen_brussel/dokter_kolyvras.html"><strong>Dr Nicolas KOLYVRAS</strong></a>
-        <ul>
-          <li>Algemene oogheelkunde</li>
-          <li>Medische retina</li>
-        </ul>
-      </li>
-	  <li><strong><a href="oftalmologen_brussel/dokter_vilain.html">Dr. Sophie VILAIN</a></strong>
-        <ul>
-			<li>Algemene oogheelkunde</li>
-          	<li>Medische retina</li>
-        </ul>
-      </li>
-    </ul>
+	<table class="table-data">
+    <tbody>
+      <tr>
+        <td><span class="employee-image" style="background-image:url(/images/employees/docteur-assaf.jpg)"></span></td>
+        <td>
+          <p><a href="oftalmologen_brussel/dokter_jean_assaf.html"><strong>Dr Jean ASSAF</strong></a></p>
+          <ul>
+            <li>Oogchirurgie
+              <ul>
+                <li>Multifocale implantaten</li>
+              </ul>
+            </li>
+            <li>Refractieve chirurgie
+              <ul>
+                <li>Aberrometrie</li>
+              </ul>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><span class="no-employee-image"></span></td>
+        <td>
+          <p><a href="oftalmologen_brussel/dokter_dixsaut.html"><strong>Dr Fabrice DIXSAUT</strong></a></p>
+          <ul>
+            <li>Algemene oogheelkunde</li>
+            <li>Medische retina</li>
+            <li>Ooglidchirurgie</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><span class="no-employee-image"></span></td>
+        <td>
+          <p><a href="oftalmologen_brussel/dokter_frankental.html"><strong>Dr Dita FRANKENTAL</strong></a></p>
+          <ul>
+            <li>Algemene oogheelkunde</li>
+            <li>Contactlenzen</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><span class="no-employee-image"></span></td>
+        <td>
+          <p><a href="oftalmologen_brussel/dokter_kolyvras.html"><strong>Dr Nicolas KOLYVRAS</strong></a></p>
+          <ul>
+            <li>Algemene oogheelkunde</li>
+            <li>Medische retina</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><span class="employee-image" style="background-image:url(/images/employees/vilain-sophie.jpg)"></span></td>
+        <td>
+          <p><strong><a href="oftalmologen_brussel/dokter_vilain.html">Dr. Sophie VILAIN</a></strong></p>
+          <ul>
+            <li>Algemene oogheelkunde</li>
+            <li>Medische retina</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
     <p>&nbsp;</p>
     <h2>PERSONNEEL</h2>
     <table class="table-data">

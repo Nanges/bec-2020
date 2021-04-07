@@ -7,48 +7,79 @@
   "
 		]); 
 	?>
-	
-    <ul>
-      <li><strong><a href="ophtalmologues_bruxelles/docteur_jean_assaf.html">Dr Jean ASSAF</a></strong>
-        <ul>
-          <li> Chirurgie oculaire :
+  <table class="table-data">
+      <tbody>
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/docteur-assaf.jpg)"></span>
+          </td>
+          <td>
+            <p><strong><a href="ophtalmologues_bruxelles/docteur_jean_assaf.html">Dr Jean ASSAF</a></strong><p>
             <ul>
-              <li>Cornée, cataracte, glaucome</li>
+              <li> Chirurgie oculaire :
+                <ul>
+                  <li>Cornée, cataracte, glaucome</li>
+                </ul>
+              </li>
+              <li>Chirurgie réfractive :
+                <ul>
+                  <li>Myopie, hypermétropie, astigmatisme, presbytie</li>
+                </ul>
+              </li>
             </ul>
-          </li>
-          <li>Chirurgie réfractive :
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="no-employee-image"></span>
+          </td>
+          <td>
+            <p><a href="ophtalmologues_bruxelles/docteur_dixsaut.html"><strong>Dr Fabrice DIXSAUT</strong></p>
             <ul>
-              <li>Myopie, hypermétropie, astigmatisme, presbytie</li>
+              <li>Ophtalmologie générale </li>
+              <li>Rétine médicale</li>
             </ul>
-          </li>
-        </ul>
-      </li>
-	  <li><a href="ophtalmologues_bruxelles/docteur_dixsaut.html"><strong>Dr Fabrice DIXSAUT</strong></a>
-        <ul>
-          <li>Ophtalmologie générale </li>
-          <li>Rétine médicale</li>
-        </ul>
-      </li>
-	  <li><a href="ophtalmologues_bruxelles/docteur_frankental.html"><strong>Dr Dita FRANKENTAL</strong></a>
-        <ul>
-          <li>Ophtalmologie générale</li>
-          <li>Lentilles de contact</li>
-        </ul>
-      </li>
-	  <li><strong><a href="ophtalmologues_bruxelles/docteur_kolyvras.html">Dr. Nicolas KOLYVRAS</a></strong>
-        <ul>
-          <li>Ophtalmologie générale</li>
-          <li>Rétine médicale</li>
-        </ul>
-      </li>
-	  <li><strong><a href="ophtalmologues_bruxelles/docteur_vilain.html">Dr. Sophie VILAIN</a></strong>
-        <ul>
-          <li>Ophtalmologie générale</li>
-          <li>Rétine médicale</li>	
-          <li>Glaucome<br></li>
-        </ul>
-      </li>
-    </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="no-employee-image"></span>
+          </td>
+          <td>
+            <p><a href="ophtalmologues_bruxelles/docteur_frankental.html"><strong>Dr Dita FRANKENTAL</strong></a></p>
+            <ul>
+              <li>Ophtalmologie générale</li>
+              <li>Lentilles de contact</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="no-employee-image"></span>
+          </td>
+          <td>
+            <p><strong><a href="ophtalmologues_bruxelles/docteur_kolyvras.html">Dr. Nicolas KOLYVRAS</a></strong></p>
+            <ul>
+              <li>Ophtalmologie générale</li>
+              <li>Rétine médicale</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span class="employee-image" style="background-image:url(/images/employees/vilain-sophie.jpg)"></span>
+          </td>
+          <td>
+            <p><strong><a href="ophtalmologues_bruxelles/docteur_vilain.html">Dr. Sophie VILAIN</a></strong></p>
+            <ul>
+              <li>Ophtalmologie générale</li>
+              <li>Rétine médicale</li>	
+              <li>Glaucome<br></li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+  </table>
     <p>&nbsp;</p>
     <h2>PERSONNEL</h2>
     <table class="table-data">
